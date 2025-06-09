@@ -54,6 +54,14 @@ FerroMex es un sistema de gestión para una ferretería que permite administrar 
 
 ---
 
+## Demostración en video
+
+Mira una demostración del sistema FerroMex en funcionamiento en el siguiente video:
+
+[![Ver en YouTube](https://img.youtube.com/vi/DnCK8ZmPFmo/0.jpg)](https://youtu.be/DnCK8ZmPFmo)
+
+---
+
 ## Notas importantes
 
 - El archivo PDF no se abre automáticamente, sino que se envía por correo para mayor seguridad y comodidad.
